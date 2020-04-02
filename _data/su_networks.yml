@@ -254,3 +254,31 @@
           starttls:
           sts:
           userhost-in-names:
+ - name: ICQ-Chat
+      ircd-ver: inspircd-3.5.0
+      net-address:
+        link: ircs://irc.icq-chat.com:6697/
+        display: irc.icq-chat.com
+      link: https://icq-chat.com/
+      support:
+        stable:
+          account-notify:
+          account-tag:
+          away-notify:
+          batch:
+          cap-3.1:
+          cap-3.2:
+          cap-notify:
+          chghost:
+          echo-message:
+          extended-join:
+          invite-notify:
+          message-tags:
+          monitor:
+          msgid:
+          multi-prefix:
+          sasl-3.1:
+          sasl-3.2:
+          server-time:
+          starttls:
+          sts:
